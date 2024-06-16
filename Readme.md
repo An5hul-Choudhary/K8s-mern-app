@@ -27,6 +27,7 @@ minikube service webapp-service
 
 ```
 #Login using username: admin & password: pass
+
 ++++++++++++++++++++++++++++++++++++++
 ```
 kubectl delete deployment --all
