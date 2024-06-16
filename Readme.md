@@ -35,3 +35,6 @@ kubectl delete deployment --all
 ```
 kubectl delete secret --all
 ```
+```
+kubectl logs deployment/webapp-deployment
+```
